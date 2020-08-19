@@ -120,20 +120,20 @@
   box-sizing:border-box;
 }
 
-.format{
+.form-input{
   display: flex;
   background-color:white;
   width:100%;
 }
 
-.text-form{
+.form-message{
   border:none;
   height:50px;
   width:100%;
   padding-left:10px;
 }
 
-.send-form{
+.form-submit{
   height:50px;
   background-color:#38aef0;
   color:white;
